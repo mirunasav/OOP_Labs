@@ -1,0 +1,7 @@
+
+Am Facut cateva mici modificari la problema postata la ora 8
+
+(de exemplu am modificat dimensiunea matricei 
+si la Canvas::Print,
+unde pusesem   cout << this->matrix[i][j] <<" ", am pus ' '; 
+din cauza astab apareau super multe erori cand afisam inainte matricea;
