@@ -1,0 +1,8 @@
+Problema 2, in starea in care am postat-o la ora 8;
+are erori de afisare pt ca in loc de 
+
+ cout << this->matrix[i][j] <<' ';
+ 
+ am scris
+ 
+  cout << this->matrix[i][j] <<" ";
