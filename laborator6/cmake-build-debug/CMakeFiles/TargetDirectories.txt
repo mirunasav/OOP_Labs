@@ -1,0 +1,3 @@
+C:/Users/Miruna Savin/CLionProjects/laborato6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Miruna Savin/CLionProjects/laborato6/cmake-build-debug/CMakeFiles/laborato6.dir
+C:/Users/Miruna Savin/CLionProjects/laborato6/cmake-build-debug/CMakeFiles/edit_cache.dir

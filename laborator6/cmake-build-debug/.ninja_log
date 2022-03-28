@@ -1,0 +1,13 @@
+# ninja log v5
+11	152	6701903893525104	CMakeFiles/laborato6.dir/Dacia.cpp.obj	8827dec827a1fd56
+1	626	6701903898253375	CMakeFiles/laborato6.dir/main.cpp.obj	2ee3d69da0c2f2e3
+6	552	6701904487341582	CMakeFiles/laborato6.dir/Mercedes.cpp.obj	39ad5c22c3566e33
+16	566	6701904487439926	CMakeFiles/laborato6.dir/Mazda.cpp.obj	4631ba725ef2ae3
+28	574	6701904487579788	CMakeFiles/laborato6.dir/Toyota.cpp.obj	dc6bee832127ec92
+37	579	6701904487622723	CMakeFiles/laborato6.dir/Ford.cpp.obj	7d9d1ae92db77191
+46	593	6701904487783539	CMakeFiles/laborato6.dir/Circuit.cpp.obj	3828a78df1814e80
+593	731	6701904489033886	laborato6.exe	17f9d2b04b13e667
+14	461	6701905265843975	CMakeFiles/laborato6.dir/Dacia.cpp.obj	8827dec827a1fd56
+4	473	6701905265974643	CMakeFiles/laborato6.dir/main.cpp.obj	2ee3d69da0c2f2e3
+24	496	6701905266213218	CMakeFiles/laborato6.dir/Circuit.cpp.obj	3828a78df1814e80
+497	636	6701905267498598	laborato6.exe	17f9d2b04b13e667
