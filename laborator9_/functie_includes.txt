@@ -1,0 +1,21 @@
+am adaugat si functia Includes, doar ca nu stiam exact cum pot edita Map.h pe care l-am pus deja pe github, asa ca am scris-o aici :
+
+
+  bool Includes(const Map<Key, Value>& map)	{
+        if (index < map.index) return false;
+
+        bool exists;
+        for (int i = 0; i < map.index; i++)
+        {
+            exists = false;
+            for (int j = 0; j < index; j++)
+                if (vector[j].key == map.vector[i].key)
+                {
+                    exists = true;
+                    break;
+                }
+            if (exists == false)
+                return false;
+        }
+        return true;
+    }
